@@ -13,7 +13,7 @@ namespace CleverBot
     {
         static void Main(string[] args)
         {
-            Cleverbot cleverbot = new Cleverbot("CC26sC9wMH4_Mf5PfcH3JzfrQdw");
+            Cleverbot cleverbot = new Cleverbot("API_KEY");
             Console.WriteLine("Speak Now");
             SpeechSynthesizer synthesizer = new SpeechSynthesizer();
             synthesizer.SelectVoiceByHints(VoiceGender.Female, VoiceAge.Teen); // to change VoiceGender and VoiceAge check out those links below
