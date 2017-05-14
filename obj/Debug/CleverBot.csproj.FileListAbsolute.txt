@@ -1,0 +1,10 @@
+C:\Users\Angel\Documents\Visual Studio 2017\Projects\SpeechToText\ConsoleApp1\bin\Debug\CleverBot.exe.config
+C:\Users\Angel\Documents\Visual Studio 2017\Projects\SpeechToText\ConsoleApp1\bin\Debug\CleverBot.exe
+C:\Users\Angel\Documents\Visual Studio 2017\Projects\SpeechToText\ConsoleApp1\bin\Debug\CleverBot.pdb
+C:\Users\Angel\Documents\Visual Studio 2017\Projects\SpeechToText\ConsoleApp1\bin\Debug\CleverbotCOM.NET.dll
+C:\Users\Angel\Documents\Visual Studio 2017\Projects\SpeechToText\ConsoleApp1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Angel\Documents\Visual Studio 2017\Projects\SpeechToText\ConsoleApp1\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Angel\Documents\Visual Studio 2017\Projects\SpeechToText\ConsoleApp1\obj\Debug\Interop.SpeechLib.dll
+C:\Users\Angel\Documents\Visual Studio 2017\Projects\SpeechToText\ConsoleApp1\obj\Debug\CleverBot.csproj.ResolveComReference.cache
+C:\Users\Angel\Documents\Visual Studio 2017\Projects\SpeechToText\ConsoleApp1\obj\Debug\CleverBot.exe
+C:\Users\Angel\Documents\Visual Studio 2017\Projects\SpeechToText\ConsoleApp1\obj\Debug\CleverBot.pdb
